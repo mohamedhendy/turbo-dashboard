@@ -1,0 +1,8 @@
+body {
+  background-image: url("../src/assets/images/activate-background.png");
+
+  background-attachment: fixed;
+}
+.min-height{
+    min-height: 100vh;
+}
